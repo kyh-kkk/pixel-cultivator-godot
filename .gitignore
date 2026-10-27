@@ -1,0 +1,10 @@
+.godot/
+.import/
+export.cfg
+*.translation
+.DS_Store
+Thumbs.db
+export/
+build/
+*.exe
+*.pck
